@@ -32,7 +32,7 @@ console.log(this.body.speed);
           push();
           
           
-          this.visiblity = this.visiblity - 5;
+          this.visiblity = this.visiblity - 2;
           //this.visiblity = this.x;
           //this.visiblity = this.body.position.x;
         

@@ -36,7 +36,7 @@ console.log(this.body.speed);
           //this.visiblity = this.x;
           //this.visiblity = this.body.position.x;
         
-          translate(pos.x,pos.y);
+         
           
           tint(255,this.visiblity);
           image(this.image, this.body.position.x, this.body.position.y,this.width, this.height);
